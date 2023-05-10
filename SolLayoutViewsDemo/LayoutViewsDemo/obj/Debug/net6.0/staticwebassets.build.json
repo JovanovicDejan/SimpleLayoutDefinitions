@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "aGTLpTj5iQOjKXqlAfNXeX680BC772JXHkEheUfutfk=",
+  "Source": "LayoutViewsDemo",
+  "BasePath": "_content/LayoutViewsDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LayoutViewsDemo\\wwwroot",
+      "Source": "LayoutViewsDemo",
+      "ContentRoot": "C:\\Users\\dejan\\Desktop\\Layout\\SolLayoutViewsDemo\\LayoutViewsDemo\\wwwroot\\",
+      "BasePath": "_content/LayoutViewsDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dejan\\Desktop\\Layout\\SolLayoutViewsDemo\\LayoutViewsDemo\\wwwroot\\StyleSheet.css",
+      "SourceId": "LayoutViewsDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dejan\\Desktop\\Layout\\SolLayoutViewsDemo\\LayoutViewsDemo\\wwwroot\\",
+      "BasePath": "_content/LayoutViewsDemo",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
